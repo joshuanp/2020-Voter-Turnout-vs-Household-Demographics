@@ -1,5 +1,5 @@
 # 2020-Voter-Turnout-vs-Household-Demographics
-Analyzing 2020 election voter turnout vs various household demographics from a big data set with over 6 million observations and 700+ variables
+Analyzing 2020 election voter turnout vs various household demographics from a big data set with over 6 million observations and 700+ variables.
 
 ## Methods
 
